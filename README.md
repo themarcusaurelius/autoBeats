@@ -2,6 +2,16 @@
 
 This is a application that automates the downloading, installation, and running of various Beats into Vizion.ai Elasticsearch.
 
+Current supported beats:
+
+  * Filebeat
+  * Metricbeat
+  * Winlogbeat
+  * Auditbeat
+  * Heartbeat
+  * Winlogbeat
+  * Apachebeat (currently runs as a filebeat)
+
 
 ## Prerequisites:
 
