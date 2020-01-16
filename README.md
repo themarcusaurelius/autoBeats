@@ -15,7 +15,7 @@ Current supported beats:
 
 ## Prerequisites:
 
-1. You will need a Vizion.ai account and credentials to run the applications. The account is free. If you don't already have an account, please go to:
+You will need a Vizion.ai account and credentials to run the applications. The account is free. If you don't already have an account, please go to:
 
 https://app.vizion.ai/
 
@@ -26,7 +26,7 @@ https://pnap.vizion.ai/
 
 Follow the steps for setting up the 'Elasticsearch Service' and then generate a stack. This will then provide you with the credentials that you will need save and use when running the applications.
 
-2. Powershell v.5 or greater
+Powershell v.5 or greater
 
 
 ## Downloading
