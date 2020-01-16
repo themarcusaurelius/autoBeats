@@ -9,7 +9,6 @@ Current supported beats:
   * Winlogbeat
   * Auditbeat
   * Heartbeat
-  * Winlogbeat
   * Apachebeat (currently runs as a filebeat)
 
 
