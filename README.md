@@ -1,6 +1,6 @@
 # AutoBeats
 
-This is a application that automates the downloading, installation, and running of various Beats into Vizion.ai Elasticsearch.
+This is a repository of applications that automate the downloading, installation, and running of various Beats into Vizion.ai Elasticsearch.
 
 Current supported beats:
 
